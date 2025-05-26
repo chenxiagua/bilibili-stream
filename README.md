@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f988e043-9316-4c3a-a439-00988250389d)
+
 
 # 🎥 bilibili_startlive.py - B 站直播一键开播 OBS 插件
 
